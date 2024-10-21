@@ -1,0 +1,14 @@
+openai
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+langchain-anthropic
+langchainhub
+anthropic
+pinecone-client
+youtube-transcript-api
+youtube_search
+pytube
+redis
+sentence-transformers
